@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/figma/static/css/main.3c8e42e7.css",
+    "main.js": "/figma/static/js/main.2b66ee0e.js",
+    "static/media/cardimage2@3x.png": "/figma/static/media/cardimage2@3x.f977c9b2d7998ed2f9a1.png",
+    "static/media/cardimage@3x.png": "/figma/static/media/cardimage@3x.a3b10ce096ea995d0a5b.png",
+    "static/media/cardimage1@3x.png": "/figma/static/media/cardimage1@3x.6b7e286376576e041cf7.png",
+    "static/media/cardimage3@3x.png": "/figma/static/media/cardimage3@3x.9475833f3f4ea3832ac3.png",
+    "index.html": "/figma/index.html",
+    "main.3c8e42e7.css.map": "/figma/static/css/main.3c8e42e7.css.map",
+    "main.2b66ee0e.js.map": "/figma/static/js/main.2b66ee0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c8e42e7.css",
+    "static/js/main.2b66ee0e.js"
+  ]
+}
